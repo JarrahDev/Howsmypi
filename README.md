@@ -11,9 +11,9 @@ Howsmypi is an open-source Python project that provides information about your R
 - Interactive command-line options using Typer.
 
 ## Requirements
-- `Raspberry pi`  3A/3B/3A+/3B+/4B/5 or Raspberry pi Zero W/Zero 2 W
-- `Any Linux distro compatiable with Raspberry Pi` (`Debian or Ubuntu` based ones are `recommented`) 
-- `Python 3`
+- Raspberry pi  `3A/3B/3A+/3B+/4B/5 or Raspberry pi Zero W/Zero 2 W`
+- Any Linux distro compatiable with Raspberry Pi (`Debian or Ubuntu based ones are recommented`) 
+- Python 3
 - `termcolor` library (can be installed using `pip3`)
 - `yaspin` library (can be installed using `pip3`)
 - `pyfiglet` library (can be installed using `pip3`)
@@ -22,8 +22,8 @@ Howsmypi is an open-source Python project that provides information about your R
 - `psutil` library (can be installed using `pip3`)
 - `subprocess` library (can be installed using `pip3`)
 - `typer` library (can be installed using `pip3`)
--` API`
--  RapidAPI key for weather data (update 'RAPIDAPI_KEY'in the script or use the default one...)
+-  API
+-  `RapidAPI key for weather data (update 'RAPIDAPI_KEY'in the script or use the default one...)`
 
 ## Installation
 
