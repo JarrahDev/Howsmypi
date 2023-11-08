@@ -1,1 +1,1 @@
-# Howsmypi
+# MORE INFO ON THE MASTER BRANCH 
